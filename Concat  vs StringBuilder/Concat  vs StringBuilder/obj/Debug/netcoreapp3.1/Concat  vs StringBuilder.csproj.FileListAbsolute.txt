@@ -1,0 +1,12 @@
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\bin\Debug\netcoreapp3.1\Concat  vs StringBuilder.exe
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\bin\Debug\netcoreapp3.1\Concat  vs StringBuilder.deps.json
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\bin\Debug\netcoreapp3.1\Concat  vs StringBuilder.runtimeconfig.json
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\bin\Debug\netcoreapp3.1\Concat  vs StringBuilder.runtimeconfig.dev.json
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\bin\Debug\netcoreapp3.1\Concat  vs StringBuilder.dll
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\bin\Debug\netcoreapp3.1\Concat  vs StringBuilder.pdb
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\obj\Debug\netcoreapp3.1\Concat  vs StringBuilder.AssemblyInfoInputs.cache
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\obj\Debug\netcoreapp3.1\Concat  vs StringBuilder.AssemblyInfo.cs
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\obj\Debug\netcoreapp3.1\Concat  vs StringBuilder.csproj.CoreCompileInputs.cache
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\obj\Debug\netcoreapp3.1\Concat  vs StringBuilder.dll
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\obj\Debug\netcoreapp3.1\Concat  vs StringBuilder.pdb
+C:\Users\Shermaine\source\repos\Concat  vs StringBuilder\Concat  vs StringBuilder\obj\Debug\netcoreapp3.1\Concat  vs StringBuilder.genruntimeconfig.cache
